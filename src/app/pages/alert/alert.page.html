@@ -1,0 +1,24 @@
+<!-- <ion-header>
+  <ion-toolbar>
+    <ion-buttons>
+      <ion-back-button defaultHref='/' text='volver'>
+
+      </ion-back-button>
+    </ion-buttons>
+    <ion-title>alert</ion-title>
+  </ion-toolbar>
+</ion-header> -->
+
+<app-header [titulo]= "titulo || 'Alert Page'" ></app-header>
+
+<ion-content>
+
+  <ion-button expand="full" color="primary" (click)="presentAlert()">
+    Mostrar Alerta
+  </ion-button>
+
+  <ion-button expand="full" color="success" (click)="presentInput()">
+    Mostrar Input
+  </ion-button>
+
+</ion-content>

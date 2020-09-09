@@ -1,0 +1,23 @@
+[
+    {
+        "superhero": "Batman",
+        "publisher": "DC Comics",
+        "alter_ego": "Bruce Wayne",
+        "first_appearance": "Detective Comics #27",
+        "characters": "Bruce Wayne"
+    },
+    {
+        "superhero": "SuperMan",
+        "publisher": "DC Comics",
+        "alter_ego": "Kal-El",
+        "first_appearance": "Action Comics #1",
+        "characters": "Kal-El"
+    },
+    {
+        "superhero": "SpiderMan",
+        "publisher": "Marvel Comics",
+        "alter_ego": "Peter Parker",
+        "first_appearance": "Marvel Comics #27",
+        "characters": "Peter Parker"
+    }
+]
